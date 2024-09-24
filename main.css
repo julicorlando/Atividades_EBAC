@@ -10,5 +10,17 @@ display: inline;
 
 .container {
     width: 1366px;
-    margin:0 auto;
+    margin: 0 auto;
+}
+
+section .articles {
+    display: flex;
+}
+
+.articles article img {
+    height: 180px;
+}
+
+.articles article {
+    width: 30%;
 }
